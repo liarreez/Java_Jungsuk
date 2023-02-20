@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/java_jungsuk" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/java_jungsuk/chap02_variable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/java_jungsuk/chap03_operator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
